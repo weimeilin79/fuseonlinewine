@@ -5,6 +5,8 @@ This example demonstrates how to load products from Database to Salesforce.
 This is part of the my Fuse Online demo. Where it receives the order from an Wine Javascript Application. And updated and add orders to Salesforce. 
 
 
+![Load Product](pic/loadproduct.png)
+
 ### Configure Salesforce Credentials
 
 In your application.properties, add the following config:
