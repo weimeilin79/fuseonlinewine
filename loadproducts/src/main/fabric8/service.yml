@@ -1,0 +1,5 @@
+spec:
+  template:
+    metadata:
+      labels:
+        discovery.3scale.net: "true"
